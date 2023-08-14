@@ -1,0 +1,110 @@
+.nav-links p{
+color: #444;
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.nav-links p:hover{
+    color: #6953D3;
+    cursor: pointer;
+}
+
+.personImg{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+.notero-btn{
+    width: 208px;
+height: 45px;
+flex-shrink: 0;
+border-radius: 5px;
+border: none;
+background: rgba(105, 83, 211, 0.12);
+color: #6953D3;
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.note-your-everything-header{
+    color: #333;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.note-your-everything-header span{
+    background: linear-gradient(97deg, #6953D3 0%, #8566F1 33.33%, #A14EEE 66.67%, #F98085 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.no-coding-require-p{
+    color: rgba(51, 51, 51, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.join-tech-btn{
+    width: 103px;
+height: 28px;
+flex-shrink: 0;
+border-radius: 50px;
+border: 1px solid #444;
+}
+
+.download-btn{
+width: 230px;
+height: 55px;
+flex-shrink: 0;
+border-radius: 50px;
+border: none;
+background: #6953D3;
+background-image: url('../images/apple.png');
+background-repeat: no-repeat;
+background-size: 50px 45px;
+background-position: 14px 5px;
+cursor: pointer;
+
+
+}
+
+.download-btn_text{
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 38px;
+}
+
+.polygonImg{
+    width: 58px;
+height: 56px;
+flex-shrink: 0;
+border: 1px solid #6953D3;
+border-radius: 50%;
+padding: 4px;
+}
+
+
